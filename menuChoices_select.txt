@@ -1,0 +1,6 @@
+Please select an option.
+[u] update <percent> | Update this entry's completion percent
+[c] complete         | Mark this entry as 100% complete
+[i] incomplete       | Mark this entry as incomplete
+[d] delete           | Delete this entry from the list
+[b] back             | Return to the ToDo list.

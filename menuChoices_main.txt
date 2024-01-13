@@ -1,0 +1,5 @@
+Please select an option.
+[n] new              | Add a new Entry
+[s] select <index>   | Select an existing Entry
+[c] complete <index> | Mark an Entry as complete
+[e] exit             | Exit the application
